@@ -13,7 +13,7 @@ In terminal, run:
 cd ~/<file_path>/data_logging_optitrack
 python test_natnet_client_datareader.py
 ```
-If the dependencies are correctly installed and the connection (IP address on Motive2.0) is correctly configured, the script will run without any errors or else will show _"Error"_
+If the dependencies are correctly installed and the connection (IP address on Motive2.0) is correctly configured, the script will run without any errors or else will show _"\[Errno 101\] Network is unreachable"_
 
 ### Running script and logging data
 In terminal, run:
