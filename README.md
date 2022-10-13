@@ -22,6 +22,6 @@ cd ~/<file_path>/data_logging_optitrack
 python natnet_client_datareader.py
 ```
 
-If all the dependencies are correctly installed, the script would keep running and generate two different CSV files with names _"data\_markers\_%m\_%d\_%Y\_%H\_%M\_%S.csv"_ and _"data\_rigid\_bodies\_%m\_%d\_%Y\_%H\_%M\_%S.csv"_.
+If all the dependencies are correctly installed, the script would keep running and generate two different CSV files with names _"data\_markers\_m\_d\_Y\_H\_M\_S.csv"_ and _"data\_rigid\_bodies\_m\_d\_Y\_H\_M\_S.csv"_.
 
 
